@@ -2,12 +2,13 @@
 
 ### A passionate full-stack developer from Brazil
 
+- 🎓 Graduating in Software Engineering at PUC Minas
 - ✨ Creating bugs since 2023
 - 🌱 Currently learning and mastering **React, JavaScript & TypeScript**
 - 💻 Eager to contribute: **Seeking opportunities to apply my skills**
-- 📫 How to reach me: **dev.lfalcone@gmail.com**
 - ⚡ Fun fact: **I’m constantly upgrading my coding superpowers**
 - 🚀 Let’s build something awesome together!
+- 📫 How to reach me: **dev.lfalcone@gmail.com**
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/lucas-falcone-408a37272/" target="_blank">
