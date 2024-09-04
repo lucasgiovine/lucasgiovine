@@ -10,7 +10,9 @@
 - 🚀 Let’s build something awesome together!
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/lucas-falcone-408a37272/)
+<a href="https://www.linkedin.com/in/lucas-falcone-408a37272/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
 
 ### Languages and Tools:
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
