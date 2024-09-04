@@ -7,7 +7,7 @@
 - 📫 How to reach me: **dev.lfalcone@gmail.com**
 - ⚡ Fun fact: **I’m constantly upgrading my coding superpowers**
 
-- Let’s build something awesome together!
+ Let’s build something awesome together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
