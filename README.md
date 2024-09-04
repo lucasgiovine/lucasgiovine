@@ -25,15 +25,15 @@
 
 ### GitHub Stats:
 <br>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgiovine&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 <br>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasgiovine&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 <br>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgiovine&theme=dark" alt="GitHub Streak" />
 </p>
 
