@@ -24,14 +24,14 @@
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/)
 
 ### GitHub Stats:
-### GitHub Stats:
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgiovine&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasgiovine&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgiovine&show_icons=true&locale=en&layout=compact&theme=dark" alt="lucasgiovine" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgiovine&theme=dark" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasgiovine&show_icons=true&locale=en&theme=dark" alt="lucasgiovine" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgiovine&theme=dark" alt="lucasgiovine" />
+</p>
