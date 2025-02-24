@@ -3,7 +3,6 @@
 ### A passionate full-stack developer from Brazil
 
 - 🎓 Graduating in Software Engineering at PUC Minas
-- ✨ Creating bugs since 2023
 - 🌱 Currently learning and mastering **React, JavaScript & TypeScript**
 - 💻 Eager to contribute: **Seeking opportunities to apply my skills**
 - ⚡ Fun fact: **I’m constantly upgrading my coding superpowers**
