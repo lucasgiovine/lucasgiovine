@@ -1,34 +1,29 @@
-# Hi 👋, I'm Lucas
+<div align= "center">
+  
+# Olá 👋! Eu sou o Lucas,
 
-### A passionate full-stack developer from Brazil
+### Desenvolvedor full-stack e graduando em Engenharia de Software pela PUC Minas.
 
-- 🎓 Graduating in Software Engineering at PUC Minas
-- 🌱 Currently learning and mastering **React, JavaScript & TypeScript**
-- 💻 Eager to contribute: **Seeking opportunities to apply my skills**
-- ⚡ Fun fact: **I’m constantly upgrading my coding superpowers**
-- 🚀 Let’s build something awesome together!
-- 📫 How to reach me: **dev.lfalcone@gmail.com**
+### Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-falcone-408a37272/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasgmf/)
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/lucas-falcone-408a37272/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
-</a>
+### Linguagens, Frameworks e Ferramentas:
 
-### Languages and Tools:
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgiovine&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lucasgiovine" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgiovine&show_icons=true&locale=en&theme=tokyonight" alt="lucasgiovine" />
-</p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasgiovine&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=fbf5fa&title_color=fbf5fa&text_color=5E5C5C" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgiovine&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=fbf5fa&text_color=5E5C5C&progress_color=5E5C5C" alt="Linguagens Mais Usadas" height="180" />
+</div>
 
+</div>
